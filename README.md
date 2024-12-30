@@ -2,7 +2,11 @@
 ## Teste de segundo Nível
 ### terceiro nível
 
-|Compo1|Campo2|
-|xxxx|yyy|
+-----
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ---
